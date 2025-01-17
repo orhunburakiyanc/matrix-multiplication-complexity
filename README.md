@@ -5,9 +5,6 @@ Matrix Multiplication Results
 <img width="1080" alt="image" src="https://github.com/user-attachments/assets/bf94a137-fd9e-474a-947e-1afd31a7e686" />
 
 
-
-(?) NOTE: The expected matrices are sparse matrices therefore, search if any library is compatible with multiplying those matrices in an efficient way.
-
 1. Libraries Tested:
     * Vanilla JavaScript: Basic, hand-implemented matrix multiplication algorithm.
     * Math.js: A powerful math library with support for matrix operations, including multiplication.
