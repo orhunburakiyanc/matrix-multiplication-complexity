@@ -1,5 +1,4 @@
 import MatrixMultiplier from './matrix-multiplier';
-import { multiply } from 'mathjs';
 import './App.css';
 
 function App() {
